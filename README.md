@@ -5,7 +5,7 @@ Training course on the conservation of paper-based materials, methods, technique
 <head>    
 <meta charset="UTF-8">    
 <meta name="viewport" content="width=device-width, initial-scale=1.0">    
-<title>Archives and Library Professional Training: Conservation of paper-based materials</title>    
+<title>Archives and Library Professional Training: Conservation of Paper-based materials</title>    
 <style>        
 body { font-family: Arial, sans-serif; text-align: center; margin: 20px; background-color: #f9f9f9; }        
 h1 { color: #333; margin-bottom: 10px; }
@@ -19,7 +19,7 @@ h1 { color: #333; margin-bottom: 10px; }
 <p><strong>No of 2026</strong></p>        
 <p><strong>Target Audience:</strong> archivists, students and artists working on paper materials</p>    
 </div>    
-<!-- 把下面的 poster.png 换成你上传的图片实际文件名 -->    
+<!-- 把下面的 A3 poster.png 换成你上传的图片实际文件名 -->    
 <img src="A3 poster.png" alt="Training Poster" class="poster">
 </body>
 </html>
