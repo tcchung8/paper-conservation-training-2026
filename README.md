@@ -1,6 +1,6 @@
-# paper-conservation-training-2026
-Training course on the conservation of paper-based materials, methods, techniques and hands-on workshop for archivist and students
-<!DOCTYPE html>
+# Paper-Conservation-Training-2026
+Training course on the conservation of paper-based materials, methods, techniques and hands-on workshop for archivists and students
+
 <html lang="en">
 <head>    
 <meta charset="UTF-8">    
@@ -16,7 +16,7 @@ h1 { color: #333; margin-bottom: 10px; }
 <body>    
 <h1>Archives and Library Professional Training:<br>Conservation of paper-based materials</h1>    
 <div class="info">        
-<p><strong>No of 2026</strong></p>        
+<p><strong>Nov of 2026</strong></p>        
 <p><strong>Target Audience:</strong> archivists, students and artists working on paper materials</p>    
 </div>    
 <!-- 把下面的 A3 poster.png 换成你上传的图片实际文件名 -->    
