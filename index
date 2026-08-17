@@ -1,4 +1,13 @@
 # Paper-Conservation-Training-2026
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LMZSHB15PB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LMZSHB15PB');
+</script>
 Training course on the Conservation of Paper-based materials, methods, techniques and hands-on workshop for archivists and students
 
 <html lang="en">
