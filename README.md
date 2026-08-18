@@ -1,25 +1,85 @@
-# Paper-Conservation-Training-2026
-Training course on the conservation of paper-based materials, methods, techniques and hands-on workshop for archivists and students
+# 歷史檔案修護的方法與技巧專業訓練
 
-<html lang="en">
-<head>    
-<meta charset="UTF-8">    
-<meta name="viewport" content="width=device-width, initial-scale=1.0">    
-<title>Archives and Library Professional Training: Conservation of Paper-based materials</title>    
-<style>        
-body { font-family: Arial, sans-serif; text-align: center; margin: 20px; background-color: #f9f9f9; }        
-h1 { color: #333; margin-bottom: 10px; }
-        .info { margin: 20px 0; font-size: 1.1em; color: #555; }
-        .poster { max-width: 100%; height: auto; border: 1px solid #ccc; box-shadow: 0 0 10px rgba(0,0,0,0.1); }    
-</style>
-</head>
-<body>    
-<h1>Archives and Library Professional Training:<br>Conservation of paper-based materials</h1>    
-<div class="info">        
-<p><strong>Nov of 2026</strong></p>        
-<p><strong>Target Audience:</strong> archivists, students and artists working on paper materials</p>    
-</div>    
-<!-- 把下面的 A3 poster.png 换成你上传的图片实际文件名 -->    
-<img src="A3 poster.png" alt="Training Poster" class="poster">
-</body>
-</html>
+> 從科學保存到實作修護，系統性守護珍貴歷史記憶。
+
+本倉庫收錄「歷史檔案修護專業訓練課程」的完整教學資源，包含課程大綱、修護方法、環境標準與實作技巧。
+
+## 🌐 線上宣傳頁
+
+啟用 GitHub Pages 後，可透過以下網址存取課程宣傳頁：
+
+```
+https://tcchung8.github.io/paper-conservation-training-2026/
+```
+
+## 📂 倉庫結構
+
+```
+paper-conservation-training-2026/
+├── index.html              ← 課程宣傳頁（GitHub Pages 入口）
+├── README.md               ← 本檔案
+├── docs/
+│   ├── course-outline.md   ← 課程大綱（五大核心模組）
+│   ├── conservation-methods.md  ← 修護方法詳解
+│   └── enrollment.md      ← 報名資訊與 Q&A
+├── assets/
+│   └── poster.png         ← 課程海報圖
+└── LICENSE
+```
+
+## 📋 課程五大核心模組
+
+| 模組 | 內容重點 |
+|---|---|
+| **基礎理論** | 紙張酸化機制、環境控制標準（溫濕度、光照、防蟲） |
+| **病害識別** | 精準判斷黴菌、蟲蛀、撕裂、字跡褪化等劣化類型 |
+| **核心技法** | 揭裱、托裱、補缺、全色接筆四大關鍵技術實作 |
+| **修護倫理** | 最小干預、可逆性、修舊如舊的專業原則 |
+| **工具材料** | 無酸紙、小麥澱粉漿糊、修裱用紙與專業器具選用 |
+
+## 🔧 修護方法摘要
+
+### 環境控制標準
+
+- **溫度**：16–20°C
+- **相對濕度**：45–50%（日常控制在 60% 以下）
+- **照度**：≤ 50 lux，使用冷光源
+- **日波動**：溫度 ≤ ±2°C；濕度 ≤ ±5%
+
+### 核心修護流程
+
+```
+檢視登錄 → 制定修護建議書 → 解體編號 → 暫時加固
+→ 清除膠帶/金屬物/除塵 → 字跡定色 → 洗淨/除斑
+→ 除酸 → 填補補強 → 小托（托裱）→ 攤平
+→ 整合裝訂 → 無酸盒存放 → 撰寫修護報告書
+```
+
+### 居家應急三不原則
+
+1. ❌ **不貼膠帶與膠水** — 酸性和殘膠造成不可逆傷害
+2. ❌ **不陽光暴曬** — 紫外線令紙張變黃變脆
+3. ❌ **不清水水洗** — 字跡可能暈染擴散
+
+## 📜 專業標準依據
+
+本課程遵循 **國家檔案局 DA/Z 64.4-2018《紙質檔案搶救與修復規範》** 標準流程，核心原則：
+
+1. 有利於延長檔案壽命
+2. 儘量保持檔案原貌（修舊如舊）
+3. 最小程度干預
+4. 可逆性原則
+
+## 🚀 啟用 GitHub Pages
+
+1. 進入倉庫 **Settings** → 左側 **Pages**
+2. Source 選 `main` 分支 → 點 **Save**
+3. 等待 1–2 分鐘，宣傳頁即可上線
+
+## 📧 聯絡方式
+
+如有課程報名或合作洽詢，請透過倉庫 Issues 或直接郵件聯絡。
+
+---
+
+© 2026 歷史檔案修護專業訓練課程
